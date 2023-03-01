@@ -1,6 +1,6 @@
 # flutter_todov2
 
-A new Flutter project.
+A new Flutter project using php as a backend.
 
 ## Getting Started
 
